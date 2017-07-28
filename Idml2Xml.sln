@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Idml2Xml", "IDML2XML\Idml2Xml.csproj", "{7D7504F7-D408-442F-8A65-B4D89FC26C08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Idml", "Idml\Idml.csproj", "{B8B35427-7B2B-41E9-8A5B-5507E3870C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D7504F7-D408-442F-8A65-B4D89FC26C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7504F7-D408-442F-8A65-B4D89FC26C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7504F7-D408-442F-8A65-B4D89FC26C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7504F7-D408-442F-8A65-B4D89FC26C08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8B35427-7B2B-41E9-8A5B-5507E3870C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B35427-7B2B-41E9-8A5B-5507E3870C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B35427-7B2B-41E9-8A5B-5507E3870C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B35427-7B2B-41E9-8A5B-5507E3870C12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
